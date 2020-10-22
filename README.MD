@@ -54,3 +54,5 @@ Siia ma kirjutan koodi
 "Kaunist päeva teile kõigile"
 `````
 [Järgmine link](https://www.youtube.com/watch?v=2O975ewRT7Q)
+
+Lihtsalt tore päev
